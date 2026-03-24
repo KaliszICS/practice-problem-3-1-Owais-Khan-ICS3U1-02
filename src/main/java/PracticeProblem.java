@@ -29,7 +29,7 @@ public class PracticeProblem {
         }
     }
     
-    public static String fartherFromZero(int num) {
+    public static int fartherFromZero(int num) {
         if (num > 0) {
             return num+5;
         } else if (num == 0) {
